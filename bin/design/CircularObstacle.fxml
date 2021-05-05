@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Group?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Arc?>
+<?import javafx.scene.shape.Line?>
+
+<AnchorPane prefHeight="750.0" prefWidth="500.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="design.FXMLObstacleController">
+   <children>
+      <Group fx:id="ob2" layoutX="-176.0" layoutY="72.0">
+         <children>
+            <Line endX="200.0" rotate="-45.0" stroke="#ff0080" strokeLineCap="ROUND" strokeWidth="20.0" />
+            <Line endX="200.0" layoutX="93.0" layoutY="23.0" rotate="-107.1" stroke="#22e0f0" strokeLineCap="ROUND" strokeWidth="20.0" />
+            <Line endX="200.0" layoutX="25.0" layoutY="95.0" rotate="12.5" stroke="#f4de0e" strokeLineCap="ROUND" strokeWidth="20.0" />
+         </children>
+      </Group>
+      <Group fx:id="ob1" layoutY="384.0">
+         <children>
+            <Arc fill="#1f93ff01" length="90.0" radiusX="120.0" radiusY="120.0" startAngle="175.2" stroke="#22e0f0" strokeMiterLimit="0.0" strokeWidth="15.0" />
+            <Arc fill="#1f93ff01" length="90.0" radiusX="120.0" radiusY="120.0" stroke="#ff0080" strokeMiterLimit="0.0" strokeWidth="15.0" />
+            <Arc fill="#1f93ff01" length="90.0" radiusX="120.0" radiusY="120.0" startAngle="92.9" stroke="#f4de0e" strokeMiterLimit="0.0" strokeWidth="15.0" />
+            <Arc fill="#1f93ff01" length="90.0" radiusX="120.0" radiusY="120.0" startAngle="-90.0" stroke="#7420e8" strokeMiterLimit="0.0" strokeWidth="15.0" />
+         </children>
+      </Group>
+      <Group fx:id="ob3" layoutX="260.0" layoutY="177.0">
+         <children>
+            <Arc fill="#1f93ff01" length="90.0" radiusX="150.0" radiusY="150.0" startAngle="175.2" stroke="#22e0f0" strokeMiterLimit="0.0" strokeWidth="25.0" />
+            <Arc fill="#1f93ff01" length="90.0" radiusX="150.0" radiusY="150.0" startAngle="-3.8" stroke="#ff0080" strokeMiterLimit="0.0" strokeWidth="25.0" />
+            <Arc fill="#1f93ff01" length="90.0" radiusX="150.0" radiusY="150.0" startAngle="91.0" stroke="#f4de0e" strokeMiterLimit="0.0" strokeWidth="25.0" />
+            <Arc fill="#1f93ff01" length="90.0" radiusX="150.0" radiusY="150.0" startAngle="-90.0" stroke="#7420e8" strokeMiterLimit="0.0" strokeWidth="25.0" />
+         </children>
+      </Group>
+      <Group fx:id="ob5" layoutX="682.0" layoutY="238.0">
+         <children>
+            <Arc fill="#1f93ff01" length="90.0" radiusX="200.0" radiusY="200.0" startAngle="175.2" stroke="#22e0f0" strokeMiterLimit="0.0" strokeWidth="25.0" />
+            <Arc fill="#1f93ff01" length="90.0" radiusX="200.0" radiusY="200.0" startAngle="-3.8" stroke="#ff0080" strokeMiterLimit="0.0" strokeWidth="25.0" />
+            <Arc fill="#1f93ff01" length="90.0" radiusX="200.0" radiusY="200.0" startAngle="91.0" stroke="#f4de0e" strokeMiterLimit="0.0" strokeWidth="25.0" />
+            <Arc fill="#1f93ff01" length="90.0" radiusX="200.0" radiusY="200.0" startAngle="-90.0" stroke="#7420e8" strokeMiterLimit="0.0" strokeWidth="25.0" />
+         </children>
+      </Group>
+      <Group fx:id="ob4" layoutX="164.0" layoutY="601.0" rotate="-178.9">
+         <children>
+            <Arc fill="#1f93ff01" length="90.0" radiusX="100.0" radiusY="100.0" rotate="89.1" startAngle="175.2" stroke="#22e0f0" strokeMiterLimit="0.0" strokeWidth="30.0" />
+            <Arc fill="#1f93ff01" length="90.0" radiusX="100.0" radiusY="100.0" rotate="89.1" stroke="#ff0080" strokeMiterLimit="0.0" strokeWidth="30.0" />
+            <Arc fill="#1f93ff01" length="90.0" radiusX="100.0" radiusY="100.0" rotate="89.1" startAngle="92.9" stroke="#f4de0e" strokeMiterLimit="0.0" strokeWidth="30.0" />
+            <Arc fill="#1f93ff01" length="90.0" radiusX="100.0" radiusY="100.0" rotate="89.1" startAngle="-90.0" stroke="#7420e8" strokeMiterLimit="0.0" strokeWidth="30.0" />
+         </children>
+      </Group>
+      <Group fx:id="ob41" layoutX="451.0" layoutY="601.0" rotate="-88.2">
+         <children>
+            <Arc fill="#1f93ff01" length="90.0" radiusX="100.0" radiusY="100.0" rotate="89.1" startAngle="175.2" stroke="#22e0f0" strokeMiterLimit="0.0" strokeWidth="30.0" />
+            <Arc fill="#1f93ff01" length="90.0" radiusX="100.0" radiusY="100.0" rotate="89.1" stroke="#ff0080" strokeMiterLimit="0.0" strokeWidth="30.0" />
+            <Arc fill="#1f93ff01" length="90.0" radiusX="100.0" radiusY="100.0" rotate="89.1" startAngle="92.9" stroke="#f4de0e" strokeMiterLimit="0.0" strokeWidth="30.0" />
+            <Arc fill="#1f93ff01" length="90.0" radiusX="100.0" radiusY="100.0" rotate="89.1" startAngle="-90.0" stroke="#7420e8" strokeMiterLimit="0.0" strokeWidth="30.0" />
+         </children>
+      </Group>
+      <Group fx:id="w1" layoutX="931.0" layoutY="521.0">
+         <children>
+            <Arc fill="#1f93ff01" length="90.0" radiusX="200.0" radiusY="200.0" startAngle="175.2" stroke="#22e0f0" strokeMiterLimit="0.0" strokeWidth="30.0" />
+            <Arc fill="#1f93ff01" length="90.0" radiusX="200.0" radiusY="200.0" startAngle="-3.8" stroke="#ff0080" strokeMiterLimit="0.0" strokeWidth="30.0" />
+            <Arc fill="#1f93ff01" length="90.0" radiusX="200.0" radiusY="200.0" startAngle="91.0" stroke="#f4de0e" strokeMiterLimit="0.0" strokeWidth="30.0" />
+            <Arc fill="#1f93ff01" length="90.0" radiusX="200.0" radiusY="200.0" startAngle="-90.0" stroke="#7420e8" strokeMiterLimit="0.0" strokeWidth="30.0" />
+         </children>
+      </Group>
+      <Group fx:id="w2" layoutX="1017.0" layoutY="163.0">
+         <children>
+            <Arc fill="#1f93ff01" length="90.0" radiusX="150.0" radiusY="150.0" startAngle="175.2" stroke="#22e0f0" strokeMiterLimit="0.0" strokeWidth="30.0" />
+            <Arc fill="#1f93ff01" length="90.0" radiusX="150.0" radiusY="150.0" startAngle="-3.8" stroke="#ff0080" strokeMiterLimit="0.0" strokeWidth="30.0" />
+            <Arc fill="#1f93ff01" length="90.0" radiusX="150.0" radiusY="150.0" startAngle="91.0" stroke="#f4de0e" strokeMiterLimit="0.0" strokeWidth="30.0" />
+            <Arc fill="#1f93ff01" length="90.0" radiusX="150.0" radiusY="150.0" startAngle="-90.0" stroke="#7420e8" strokeMiterLimit="0.0" strokeWidth="30.0" />
+         </children>
+      </Group>
+      <Group fx:id="w3" layoutX="1212.0" layoutY="541.0">
+         <children>
+            <Arc fill="#1f93ff01" length="90.0" radiusX="100.0" radiusY="100.0" startAngle="175.2" stroke="#22e0f0" strokeMiterLimit="0.0" strokeWidth="30.0" />
+            <Arc fill="#1f93ff01" length="90.0" radiusX="100.0" radiusY="100.0" startAngle="-3.8" stroke="#ff0080" strokeMiterLimit="0.0" strokeWidth="30.0" />
+            <Arc fill="#1f93ff01" length="90.0" radiusX="100.0" radiusY="100.0" startAngle="91.0" stroke="#f4de0e" strokeMiterLimit="0.0" strokeWidth="30.0" />
+            <Arc fill="#1f93ff01" length="90.0" radiusX="100.0" radiusY="100.0" startAngle="-90.0" stroke="#7420e8" strokeMiterLimit="0.0" strokeWidth="30.0" />
+         </children>
+      </Group>
+   </children>
+</AnchorPane>
