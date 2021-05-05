@@ -16,3 +16,4 @@ A replica of original Color Switch game, implemented via JavaFX and various conc
 
 # ScreenShots
 ![](screenshots/img1.png)
+![](screenshots/img2.png)
