@@ -13,3 +13,6 @@ A replica of original Color Switch game, implemented via JavaFX and various conc
 - Use 'spacebar' to jump & move the ball
 - Collect stars, Increase score
 - Have Fun!
+
+# ScreenShots
+![](screenshots/img1.png)
