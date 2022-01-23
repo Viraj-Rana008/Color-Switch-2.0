@@ -5,8 +5,6 @@ A replica of original Color Switch game, implemented via JavaFX and various conc
 - Clone the repository
 - Open /src folder in Terminal/CMD
 - execute: 'java App.java'
-- Or open /bin folder in Termincal/CMD
-- exceute: 'java App'
 
 # How to Play !
 - Enter as new player
